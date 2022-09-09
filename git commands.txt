@@ -1,0 +1,12 @@
+#Exit Mysql
+quit
+
+# Shows the current status of the repository
+# untrackked files, new files, changes to files, ...
+git status
+
+# Adds any new files to the repository
+git add .
+
+# commits any changes
+# The text after the -m is a description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
